@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+**LE/Oldrim mods will be automatically rejected, do not submit them.**
+
 **Mod Name**
 The name of the mod.
 
