@@ -38,7 +38,7 @@ Incorporates a small fix for CCO that makes the A New Beginning book work as a w
 #### Minor	
 Added Better Female Eyebrows back, Lawbringer, Halted Stream Mine, Serenity, replaced CCO with Classic Classes & Birthsigns. Remove Bent Pines (conflicts with Myrkvior's Whiterun Tundra trees). LOD files regenerated.						
 
-### /9/2020 0.3.1 Beta	
+### 2/9/2020 0.3.1 Beta	
 #### Incremental	
 Only change is to add PrivateProfileRedirector. Should improve initial load times by upwards of 30 seconds. Will not break saves.						
 
@@ -101,7 +101,6 @@ Official release.
 ### 3/16/2020 1.1.0	
 #### Minor	
 Added Forgotten Argonian Roots. Fixed all reported BFBs and head/body mismatches. Tweaked Experience values to prevent "level 4 just for playing!" and slow down leveling a bit. Added Enemy Releveler.						
-
 ### 3/18/2020 1.2.0	
 #### Minor	
 Replaced Invested Magic with Sustained Magic and Sustained Magic Apocalypse Patch. Added custom LS Sustained Magic + Apocalypse + Ordinator + USSEP Patch. Added SkyHUD. Added .NET Script Framework. Added Bug Fixes SSE. Removed Dot Crosshair (redundant with SkyHUD). Updated Interesting NPCs. Added LOD files to the CDN, so they should no longer fail to download. Fixed missing shield visuals issue. Switched Fuz Roh D'oh from Oldrim to SSE version. 						
