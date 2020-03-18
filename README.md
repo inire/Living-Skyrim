@@ -49,25 +49,24 @@ As with any modlist, it is strongly recommended that you start with a clean, unm
 
 ## Installation
 
-1. Download the [Modlist File](https://drive.google.com/open?id=1TkXLAqPgh6Rmtj1N8J6gZ4_sMqxWSbSt) as well as the latest [Wabbajack Installer.](https://github.com/wabbajack-tools/wabbajack/releases) Do not run anything until instructed to do so. 
+1. Download the latest [Wabbajack Installer](https://github.com/wabbajack-tools/wabbajack/releases). Do not run anything until instructed to do so.
 2. Create a new folder in the root of the drive where you want Wabbajack to be installed. (C:\ will be used as an example, but it can be placed in any drive.) Name this folder “Wabbajack”. **Important!:** Wabbajack must be placed in a separate folder from where the installation will occur. 
 3. Create a second folder called C:\Living Skyrim. This folder is where everything will be installed. 
 4. Ensure that C:\Living Skyrim is **completely empty.**
 5. Ensure that Wabbajack.exe and the .wabbajack file are in C:\Wabbajack.
 
 ### Wabbajack Installation
-1. Run Wabbajack.exe. At the bottom of the window, click Install From Disk. A file picker window will appear. 
-2. Navigate to C:\Wabbajack and select Living Skyrim.
-3. Click Open.
-4. Set the Installation Location to C:\Living Skyrim. The download location does not need to be set manually unless you have drive space limitations. Downloading to a separate folder is fine (for example, on a HDD), but as before it is recommended that the actual install be placed on a SSD.
-5. Click Run.
+1. Run Wabbajack.exe. At the bottom of the window, click Browse Modlists. Select Living Skyrim from the UI and download it.
+2. Once downloaded, click the play button in the Living Skyrim panel to begin.
+3. Set the Installation Location to C:\Living Skyrim. The download location does not need to be set manually unless you have drive space limitations. Downloading to a separate folder is fine (for example, on a HDD), but as before it is recommended that the actual install be placed on a SSD. Important!: Do not install the modlist to your Skyrim SE installation folder OR the folder that Wabbajack.exe is in.
+4. Click Run.
 
 #### With Nexus Premium
-6. Wabbajack will walk you through logging into the Nexus and authorizing an API key so it can download mods if you have not done so previously.
-7. Let Wabbajack do its thing. This will take a little while (usually 2-3 hours at most), so go get a snack and read a book for a bit. If you have good enough internet, YouTube is also your friend here.
+5. Wabbajack will walk you through logging into the Nexus and authorizing an API key so it can download mods if you have not done so previously.
+6. Let Wabbajack do its thing. This will take a little while (usually 2-3 hours at most), so go get a snack and read a book for a bit. If you have good enough internet, YouTube is also your friend here.
 
 #### Without Nexus Premium
-6. Wabbajack will prompt you to click all the needed buttons to download the modlist. Be prepared for this to take a really long time, possibly more than one day. Also be aware that due to the amount of time required when installing this list manually, the list may update during the time it takes to install and you may need to start over if that happens. Put on some music or a TV show and make a day of it.
+5. Wabbajack will prompt you to click all the needed buttons to download the modlist. Be prepared for this to take a really long time, possibly more than one day. Also be aware that due to the amount of time required when installing this list manually, the list may update during the time it takes to install and you may need to start over if that happens. Put on some music or a TV show and make a day of it.
 
 Once complete, Wabbajack will say “Installation complete! You may exit the program.” If it does not, visit the Wabbajack Discord server for assistance. **Don’t forget to upload your log file!**  
 
