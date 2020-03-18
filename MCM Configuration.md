@@ -16,43 +16,43 @@ To play Living Skyrim as I intend, the MCM and Skyrim in-game settings should be
   - Settings
     - Persistent Arrows: Disabled
 
-All Geared Up Derivative
-Misc - Player
-Enable Misc Items Display: Disabled
-NPC
-Enable Weapons: Enabled
-Enable Misc Item Display: Disabled
+* All Geared Up Derivative
+  - Misc - Player
+    - Enable Misc Items Display: Disabled
+  - NPC
+    - Enable Weapons: Enabled
+    - Enable Misc Item Display: Disabled
 
-Deadly Dragons
-Dragons
-Difficulty: Expert
+* Deadly Dragons
+  - Dragons
+    - Difficulty: Expert
 
-Destructible Display Cases
-Fire & Frost: Disabled
-Arrows: Disabled
-Shouts: Disabled
+* Destructible Display Cases
+  - Fire & Frost: Disabled
+  - Arrows: Disabled
+  - Shouts: Disabled
 
-Diverse Dragons
-Dragons 
-Sanguine: Disabled
-Vile: Disabled
+* Diverse Dragons
+  - Dragons 
+    - Sanguine: Disabled
+    - Vile: Disabled
 
-Farmhouse Chimneys
-Mod support 
-Helarchen Creek: Enabled
-Cutting Room Floor: Enabled
-Darkwater Crossing: Enabled
-Ivarstead: Enabled
-Kynesgrove: Enabled
-Rorikstead: Enabled
-Shor’s Stone: Enabled
-Soljund’s Sinkhole: Enabled
-Whistling Mine: Enabled
+* Farmhouse Chimneys
+  - Mod support 
+    - Helarchen Creek: Enabled
+    - Cutting Room Floor: Enabled
+    - Darkwater Crossing: Enabled
+    - Ivarstead: Enabled
+    - Kynesgrove: Enabled
+    - Rorikstead: Enabled
+    - Shor’s Stone: Enabled
+    - Soljund’s Sinkhole: Enabled
+    - Whistling Mine: Enabled
 
-Gamepad++
-Important!: Gamepad++ only needs to be enabled in MO2 if you are going to be playing the game using a controller. Otherwise, you should disable it in the left pane of MO2. You will not be able to move using mouse/keyboard unless you disable Gamepad++.
+* Gamepad++
+**Important!: Gamepad++ only needs to be enabled in MO2 if you are going to be playing the game using a controller. Otherwise, you should disable it in the left pane of MO2. You will not be able to move using mouse/keyboard unless you disable Gamepad++.**
 
-Configure Gamepad++ however you want.
+  - Configure Gamepad++ however you want.
 
 Hunterborn
 Features
