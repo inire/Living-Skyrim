@@ -23,7 +23,7 @@ As of v1.2.0, the modlist requires ~119GB (39.6GB Downloads/79GB Mods) of hard d
 Support is **not** provided for adding to, changing, or removing mods from the modlist. If you’re uncertain of how to use xEdit at a minimum, making any changes at all is a great way to have a **Bad Time™**.
 
 ### Links
-[The Modlist, Submissions, and Version History spreadsheet](https://docs.google.com/spreadsheets/d/1sKG690CbutxCFhDLfTH7C6yYCz0dOkZkuKfYAqRBRVU/edit?usp=sharing)  
+[The Modlist and Mod Submissions Spreadsheet](https://docs.google.com/spreadsheets/d/1sKG690CbutxCFhDLfTH7C6yYCz0dOkZkuKfYAqRBRVU/edit?usp=sharing)  
 [Living Skyrim FAQ](FAQ.md)  
 [Living Skyrim Bug Tracker](https://github.com/ForgottenGlory/Living-Skyrim/issues)  
 [User Testimonials](https://drive.google.com/open?id=1eXeG852teL9EOnIHTAFTLW4Rq1c_pYGRYPtW_eNJqLg)
