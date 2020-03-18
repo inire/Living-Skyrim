@@ -6,13 +6,13 @@ To play Living Skyrim as I intend, the MCM and Skyrim in-game settings should be
 
 * A Matter of Time
   - General 
-        - Show Seasons: Enabled
-        - Show Moon Phases: Enabled
-    Display     
-        - Preset: Show As List
-        - Set all Transparency options to 70%
+    - Show Seasons: Enabled
+    - Show Moon Phases: Enabled
+  - Display     
+    - Preset: Show As List
+    - Set all Transparency options to 70%
 
-* AGO  
+* AGO
   - Settings
     - Persistent Arrows: Disabled
 
