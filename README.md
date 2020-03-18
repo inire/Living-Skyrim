@@ -24,6 +24,7 @@ Support is **not** provided for adding to, changing, or removing mods from the m
 [The Modlist, Submissions, and Version History spreadsheet](https://docs.google.com/spreadsheets/d/1sKG690CbutxCFhDLfTH7C6yYCz0dOkZkuKfYAqRBRVU/edit?usp=sharing)  
 [Living Skyrim FAQ](https://docs.google.com/document/d/1ObldDxDPppV7tB_uTIzXN16puqiTTZB1pzf3wuNXHmY/edit?usp=sharing)  
 [Living Skyrim Bug Tracker](https://trello.com/b/myVMRRQU/living-skyrim-bug-tracker)  
+[User Testimonials](https://drive.google.com/open?id=1eXeG852teL9EOnIHTAFTLW4Rq1c_pYGRYPtW_eNJqLg)
 
 Screenshots: [One](https://i.imgur.com/WLHS8PZ.png) [Two](https://i.imgur.com/VZ5R16D.jpg) [Three](https://i.imgur.com/ihT68Xq.jpg) [Four](https://i.imgur.com/TjpnNsA.jpg) [Five](https://i.imgur.com/v4wlwzJ.jpg) [Six](https://i.imgur.com/EOYFd4E.jpg) [Seven](https://media.discordapp.net/attachments/657015801215189017/678464602731708416/ScreenShot12.png?width=1284&height=723) [Eight](https://media.discordapp.net/attachments/657015801215189017/680242683746451475/ScreenShot27.png?width=1284&height=723) [Nine](https://media.discordapp.net/attachments/657015801215189017/680242702163509268/ScreenShot23.png?width=1284&height=723) [Ten](https://media.discordapp.net/attachments/657015801215189017/680242707846922252/ScreenShot25.png?width=1284&height=723) [Eleven](https://media.discordapp.net/attachments/657015801215189017/678464594762530837/ScreenShot15.png?width=1284&height=723)
 
