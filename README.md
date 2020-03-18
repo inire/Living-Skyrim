@@ -2,7 +2,6 @@
 Current version: 3/18/2020, v1.2.0  
 448 mods, 235 ESPs, 18 ESLs (253 Total)
 
-
 ## Preface
 The Living Skyrim Modlist focuses heavily on adding highly interactive content. New questlines and world spaces are given high priority as well as mods that add NPCs, followers, and things to do. Some prominent examples are Interesting NPCs, Immersive Creatures, Legacy of the Dragonborn V5, VIGILANT, Falskaar, Animallica, and more. The core idea of Living Skyrim is to make the world feel full of life and activity in almost every area, whether it's a bandit patrol from OBIS or a conversation overheard between NPCs provided by Realistic Conversations. It is designed as a complete overhaul and expansion to many of the systems present in the game. It is aimed at providing a lore-friendly experience that enhances the core game rather than adding tedium and monotony to the game. Some mods are avoided intentionally so that unnecessary systems that slow down the game aren't included. The few inclusions that do slow things down are included for balance and pacing reasons.  
 
@@ -26,7 +25,7 @@ Support is **not** provided for adding to, changing, or removing mods from the m
 ### Links
 [The Modlist, Submissions, and Version History spreadsheet](https://docs.google.com/spreadsheets/d/1sKG690CbutxCFhDLfTH7C6yYCz0dOkZkuKfYAqRBRVU/edit?usp=sharing)  
 [Living Skyrim FAQ](FAQ.md)  
-[Living Skyrim Bug Tracker](https://trello.com/b/myVMRRQU/living-skyrim-bug-tracker)  
+[Living Skyrim Bug Tracker](https://github.com/ForgottenGlory/Living-Skyrim/issues) 
 [User Testimonials](https://drive.google.com/open?id=1eXeG852teL9EOnIHTAFTLW4Rq1c_pYGRYPtW_eNJqLg)
 
 Screenshots: [One](https://i.imgur.com/WLHS8PZ.png) [Two](https://i.imgur.com/VZ5R16D.jpg) [Three](https://i.imgur.com/ihT68Xq.jpg) [Four](https://i.imgur.com/TjpnNsA.jpg) [Five](https://i.imgur.com/v4wlwzJ.jpg) [Six](https://i.imgur.com/EOYFd4E.jpg) [Seven](https://media.discordapp.net/attachments/657015801215189017/678464602731708416/ScreenShot12.png?width=1284&height=723) [Eight](https://media.discordapp.net/attachments/657015801215189017/680242683746451475/ScreenShot27.png?width=1284&height=723) [Nine](https://media.discordapp.net/attachments/657015801215189017/680242702163509268/ScreenShot23.png?width=1284&height=723) [Ten](https://media.discordapp.net/attachments/657015801215189017/680242707846922252/ScreenShot25.png?width=1284&height=723) [Eleven](https://media.discordapp.net/attachments/657015801215189017/678464594762530837/ScreenShot15.png?width=1284&height=723)
@@ -34,10 +33,10 @@ Screenshots: [One](https://i.imgur.com/WLHS8PZ.png) [Two](https://i.imgur.com/VZ
 ### System Specifications
 My computer is not the most powerful, but it can run this modlist at a consistent 60 FPS using the High preset. My specs are as follows. Please use this as a guideline to see if you are able to run this modlist. Anything better than what’s listed here should have no issues, anything worse may need to use the Medium or Low presets in the Skyrim graphics settings or go without ENB/use Re-shade instead. **Support is not provided for Re-shade.**  
 
- - CPU: Intel i5-8600K Overclocked to 4.2GHz 
- - RAM: 16GB (16299MB actual)
- - GPU: nVidia GTX 1070 8GB (8192MB actual) 
- - Monitor: Dell S2716DGR 2560x1440 @ 144hz
+- CPU: Intel i5-8600K Overclocked to 4.2GHz 
+- RAM: 16GB (16299MB actual)
+- GPU: nVidia GTX 1070 8GB (8192MB actual) 
+- Monitor: Dell S2716DGR 2560x1440 @ 144hz
 
 Skyrim is very heavy on processors. Generally, anything above 3GHz should be fine but I can’t guarantee it. I would also recommend at least 8GB of RAM and 6GB of VRAM before considering installing this modlist. During my testing, this list averaged 3.2GB of RAM usage (9.2GB max) and 5.5GB of VRAM usage (7.9GB max).  
 
