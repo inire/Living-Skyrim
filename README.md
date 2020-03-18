@@ -22,7 +22,7 @@ Support is **not** provided for adding to, changing, or removing mods from the m
 
 ### Links
 [The Modlist, Submissions, and Version History spreadsheet](https://docs.google.com/spreadsheets/d/1sKG690CbutxCFhDLfTH7C6yYCz0dOkZkuKfYAqRBRVU/edit?usp=sharing)  
-[Living Skyrim FAQ](https://docs.google.com/document/d/1ObldDxDPppV7tB_uTIzXN16puqiTTZB1pzf3wuNXHmY/edit?usp=sharing)  
+[Living Skyrim FAQ](FAQ.md)  
 [Living Skyrim Bug Tracker](https://trello.com/b/myVMRRQU/living-skyrim-bug-tracker)  
 [User Testimonials](https://drive.google.com/open?id=1eXeG852teL9EOnIHTAFTLW4Rq1c_pYGRYPtW_eNJqLg)
 
@@ -103,7 +103,7 @@ The hard part is now over. Carry on, the end is in sight!
 5. Once you see that no more items are appearing in the list in the top left, you can proceed to the next steps.
 
 ### The MCM Settings
-1. If you want the true Living Skyrim experience, consult the [Living Skyrim MCM Configuration](https://docs.google.com/document/d/1SQQnKvUrGSHfv32SVzo0oIifm6HRuh-rSJxjAfRJbzc/edit?usp=sharing) document and follow all listed steps. Note that some settings in this document are required for certain mods to work properly, namely Hunterborn, Lock Overhaul, OBIS, Immersive HUD, and XPMSE.
+1. If you want the true Living Skyrim experience, consult the [Living Skyrim MCM Configuration](MCM%20Configuration.md) document and follow all listed steps. Note that some settings in this document are required for certain mods to work properly, namely Hunterborn, Lock Overhaul, OBIS, Immersive HUD, and XPMSE.
 2. Otherwise, configure the MCMs how you want. Feel free to experiment and turn the difficulty up/down to your preference.
 3. Don’t forget to save your game after configuring the MCMs, I promise you don’t want to have to do this step more than once.
 
