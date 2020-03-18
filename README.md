@@ -1,5 +1,5 @@
 # Living Skyrim
-Current version: 3/18/2020, v1.2.0
+Current version: 3/18/2020, v1.2.0  
 448 mods, 235 ESPs, 18 ESLs (253 Total)
 
 
