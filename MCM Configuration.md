@@ -49,7 +49,7 @@ To play Living Skyrim as I intend, the MCM and Skyrim in-game settings should be
     - Soljund’s Sinkhole: Enabled
     - Whistling Mine: Enabled
 
-* Gamepad++
+* Gamepad++  
 **Important!: Gamepad++ only needs to be enabled in MO2 if you are going to be playing the game using a controller. Otherwise, you should disable it in the left pane of MO2. You will not be able to move using mouse/keyboard unless you disable Gamepad++.**
 
   - Configure Gamepad++ however you want.
