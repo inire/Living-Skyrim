@@ -156,6 +156,8 @@ To play Living Skyrim as I intend, the MCM and Skyrim in-game settings should be
 * tK dodge
   - Dodge key: Whatever you want. I use Mouse 4.
   - Double Tap Input: Disabled
+  - Optional, Controller Only:
+    - Input Method: Gamepad
 
 * VioLens
   - Profile System
