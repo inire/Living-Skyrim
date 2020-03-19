@@ -60,7 +60,7 @@ As with any modlist, it is strongly recommended that you start with a clean, unm
 ### Wabbajack Installation
 1. Run Wabbajack.exe. At the bottom of the window, click Browse Modlists. Select Living Skyrim from the UI and download it.
 2. Once downloaded, click the play button in the Living Skyrim panel to begin.
-3. Set the Installation Location to C:\Living Skyrim. The download location does not need to be set manually unless you have drive space limitations. Downloading to a separate folder is fine (for example, on a HDD), but as before it is recommended that the actual install be placed on a SSD. Important!: Do not install the modlist to your Skyrim SE installation folder OR the folder that Wabbajack.exe is in.
+3. Set the Installation Location to C:\Living Skyrim. The download location does not need to be set manually unless you have drive space limitations. Downloading to a separate folder is fine (for example, on a HDD), but as before it is recommended that the actual install be placed on a SSD. **Important!:** Do not install the modlist to your Skyrim SE installation folder OR the folder that Wabbajack.exe is in.
 4. Click Run.
 
 #### With Nexus Premium
