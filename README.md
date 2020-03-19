@@ -93,7 +93,7 @@ ENB is not required to run Living Skyrim, but it is intended to be used with Sky
 5. (Optional) Then, go to the 2. Optional DOF Strengths folder and select your favorite. I prefer the Soft DOF. Go into your chosen folder and copy all of the files within into your Skyrim SE installation folder. Overwrite files when prompted.
 6. Additional information and details can be found in the Re-Engaged ENB description if needed.
 
-**If you have issues using Re-Engaged ENB with Predator Vision, check the [FAQ](https://docs.google.com/document/d/1ObldDxDPppV7tB_uTIzXN16puqiTTZB1pzf3wuNXHmY/edit?usp=sharing) for more details on how to fix this.**
+**If you have issues using Re-Engaged ENB with Predator Vision, check the [FAQ](https://github.com/ForgottenGlory/Living-Skyrim/blob/master/FAQ.md) for more details on how to fix this.**
 
 ### Launching the Game
 The hard part is now over. Carry on, the end is in sight!
