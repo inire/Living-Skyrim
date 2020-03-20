@@ -153,6 +153,5 @@
 - Fixed missing shield visuals issue. 
 - Switched Fuz Roh D'oh from Oldrim to SSE version. 
 
-### 1.3.0
+### 3/22/2020 1.3.0
 #### Planned
-- Fixed Sustained Magic descriptions.
