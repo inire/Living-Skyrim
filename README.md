@@ -84,6 +84,9 @@ Now you have to copy some files to their correct locations. Navigate to C:\Livin
 2. A dialogue will appear and ask if you want to associate Mod Organizer with nxm links. Click **Yes.**
 3. Make a note of the Active count in both the left and right panes. If yours doesn’t say 443 and 249 respectively, make sure you have booted Mod Organizer in Portable Mode.
 
+### Configuration-Specific
+1. If you are going to use a controller, make sure to enable Gamepad++ in the left pane of MO2. 
+
 ### ENB
 ENB is not required to run Living Skyrim, but it is intended to be used with SkyrimSE Re-Engaged ENB. You may skip these instructions if you don’t want to use ENB. To install ENB, follow these steps:
 
