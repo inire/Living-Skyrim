@@ -11,7 +11,7 @@ All of this is on top of a high-quality graphics package intended for higher-end
 
 As for stability and conflict resolution, Living Skyrim includes a number of patches, fixes, and compatibility resolutions including Bash and Smash Patches. Custom patches have also been created for certain awkward interactions between some mods (most notably, Awakened Magicka, Invested Magicka, and Ordinator.) It also includes DynDOLOD, TexGen, and SSELODGEN data pre-packaged for ease of install.  
 
-Lastly, Living Skyrim exists solely as a Wabbajack installer. A manual installation guide is not planned.
+Lastly, Living Skyrim exists solely as a Wabbajack installer. A manual installation guide is not planned..
 
 ### Warnings/Disclaimers
 Wabbajack no longer requires that you have Nexus Premium to install the modlist, however, having Nexus Premium will cut your install time to a fraction of what it would be instead of downloading each mod individually (and save you a thousand clicks or so).  
