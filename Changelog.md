@@ -153,5 +153,28 @@
 - Fixed missing shield visuals issue. 
 - Switched Fuz Roh D'oh from Oldrim to SSE version. 
 
-### 3/22/2020 1.3.0
-#### Planned
+### 3/20/2020 1.3.0
+#### Incremental
+* **Fixes**
+  - Fixed issue with description of Sustained Magic spells.
+  - Fixed a few floating trees.
+  - Fixed Luaffyn for real this time.
+* **Balance**
+  - Nerfed Atronach Stone to 25% magicka cost reduction (from 50%).
+  - Nerfed Worshipper of Magnus magicka cost reduction to 25% (from 75%).
+* **Additions**
+  - Added Civil War Checkpoints.
+  - Added Immersive War and Violence.
+  - Added Wards Functionalities Extended. This is a buff.
+  - Added Encounter Zones Unlocked. Locations will now dynamically update the level of enemies within again if they've been visited previously.
+  - Added Cuyima Interesting NPCs SE.
+  - Added Carved Brink.
+  - Added Clockwork and JKs Skyrim + Clockwork patch.
+  - Added I'm A Customer Dammit.
+  - Added Remove QuickSave Button from SkyUI System Menu.
+  - Added Forgotten Dungeons SE.
+  - Added Complete Widescreen Fix for Vanilla and SkyUI 2.2 and 5.2 SE. It is set to be initially disabled and will need to be manually enabled in MO2 if needed.
+* **Other**
+  - Changed Gamepad++ to initially be disabled. It can be enabled if using a controller.
+  - Regenerated LODs.
+  - The right pane of MO2 will now report 260 active, this is not an issue. The list is at 241 ESMs/ESPs and 19 ESLs.
