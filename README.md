@@ -82,7 +82,7 @@ Now you have to copy some files to their correct locations. Navigate to C:\Livin
 ### Mod Organizer 2
 1. Navigate to C:\Living Skyrim and open ModOrganizer.exe. Your Mod Organizer window will have the Wabbajack theme already selected. If it doesn’t, something has gone wrong and you’ll likely need to do the Wabbajack installation again.
 2. A dialogue will appear and ask if you want to associate Mod Organizer with nxm links. Click **Yes.**
-3. Make a note of the Active count in both the left and right panes. If yours doesn’t say 443 and 249 respectively, make sure you have booted Mod Organizer in Portable Mode.
+3. Make a note of the Active count in both the left and right panes. If yours doesn’t say 460 and 262 respectively, make sure you have booted Mod Organizer in Portable Mode.
 
 #### Configuration-Specific
 1. If you are going to use a controller, make sure to enable Gamepad++ in the left pane of MO2. If you are **not** going to use a controller, make sure to **disable** Gamepad++ in the left pane of MO2.
