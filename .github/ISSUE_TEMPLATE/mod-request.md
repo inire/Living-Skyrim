@@ -2,7 +2,7 @@
 name: Mod Request
 about: Suggest a mod for Living Skyrim
 title: ''
-labels: ''
+labels: mod request
 assignees: ''
 
 ---
