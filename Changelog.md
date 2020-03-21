@@ -183,3 +183,10 @@
 #### Incremental
 * **Fixes**
   - Fixed missing Game Folder Files, Gamepad++, and Widescreen Fixes.
+
+### 3/21/2020 1.3.2
+#### Incremental
+* **Fixes**
+  - Damn you Luaffyn.
+  - Updated DynDOLOD tool.
+  - Updated Glorious Doors of Skyrim.
