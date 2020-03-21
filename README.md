@@ -1,6 +1,6 @@
 # Living Skyrim
-Current version: 3/18/2020, v1.2.0  
-448 mods, 235 ESPs, 18 ESLs (253 Total)
+Current version: 3/20/2020, v1.3.0  
+458 mods, 241 ESPs/ESMs, 19 ESLs (260 Total)
 
 ## Preface
 The Living Skyrim Modlist focuses heavily on adding highly interactive content. New questlines and world spaces are given high priority as well as mods that add NPCs, followers, and things to do. Some prominent examples are Interesting NPCs, Immersive Creatures, Legacy of the Dragonborn V5, VIGILANT, Falskaar, Animallica, and more. The core idea of Living Skyrim is to make the world feel full of life and activity in almost every area, whether it's a bandit patrol from OBIS or a conversation overheard between NPCs provided by Realistic Conversations. It is designed as a complete overhaul and expansion to many of the systems present in the game. It is aimed at providing a lore-friendly experience that enhances the core game rather than adding tedium and monotony to the game. Some mods are avoided intentionally so that unnecessary systems that slow down the game aren't included. The few inclusions that do slow things down are included for balance and pacing reasons.  
@@ -16,7 +16,7 @@ Lastly, Living Skyrim exists solely as a Wabbajack installer. A manual installat
 ### Warnings/Disclaimers
 Wabbajack no longer requires that you have Nexus Premium to install the modlist, however, having Nexus Premium will cut your install time to a fraction of what it would be instead of downloading each mod individually (and save you a thousand clicks or so).  
 
-As of v1.2.0, the modlist requires ~119GB (39.6GB Downloads/79GB Mods) of hard drive space on top of the ~10GB Skyrim: Special Edition base files. Installing onto an SSD is not required, but **strongly recommended**. Download and installation times vary based on your computer and internet speeds but expect them to take at least one hour with 20-30 minutes of after-Wabbajack work.  
+As of v1.3.0, the modlist requires ~121GB (40GB Downloads/81GB Mods) of hard drive space on top of the ~10GB Skyrim: Special Edition base files. Installing onto an SSD is not required, but **strongly recommended**. Download and installation times vary based on your computer and internet speeds but expect them to take at least one hour with 20-30 minutes of after-Wabbajack work.  
 
 **NSFW Warning:** By default this modlist contains nude models for female NPCs. See the FAQ for more information about changing the list to NeverNude if that interests you.  
 
@@ -84,8 +84,9 @@ Now you have to copy some files to their correct locations. Navigate to C:\Livin
 2. A dialogue will appear and ask if you want to associate Mod Organizer with nxm links. Click **Yes.**
 3. Make a note of the Active count in both the left and right panes. If yours doesn’t say 443 and 249 respectively, make sure you have booted Mod Organizer in Portable Mode.
 
-### Configuration-Specific
+#### Configuration-Specific
 1. If you are going to use a controller, make sure to enable Gamepad++ in the left pane of MO2. 
+2. If you are using a widescreen monitor, make sure to enable Complete Widescreen Fix for SkyUI 5.2 SE in the left pane of MO2.
 
 ### ENB
 ENB is not required to run Living Skyrim, but it is intended to be used with SkyrimSE Re-Engaged ENB. You may skip these instructions if you don’t want to use ENB. To install ENB, follow these steps:
