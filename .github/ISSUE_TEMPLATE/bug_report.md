@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help Living Skyrim improve
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
