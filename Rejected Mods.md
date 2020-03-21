@@ -1,4 +1,4 @@
-Immersive Dungeons SSE	https://www.nexusmods.com/skyrimspecialedition/mods/16706
+Immersive Dungeons SSE https://www.nexusmods.com/skyrimspecialedition/mods/16706
 Simply Better Movement Speeds (SSE)	https://www.nexusmods.com/skyrimspecialedition/mods/130
 Werewolf and Vampire Lord Movement Speed - SBM Compatible	https://www.nexusmods.com/skyrimspecialedition/mods/33720/
 Druidic Bandits	https://www.nexusmods.com/skyrimspecialedition/mods/32238
@@ -32,3 +32,17 @@ Organic Factions	https://www.nexusmods.com/skyrimspecialedition/mods/10289
 Hott Interesting NPCs	https://www.nexusmods.com/skyrimspecialedition/mods/18818
 Interesting NPCs - 3DNPC - Cyb's Overhaul SE	https://www.nexusmods.com/skyrimspecialedition/mods/9638
 SSE Enhanced AI Framework	https://www.nexusmods.com/skyrimspecialedition/mods/10274
+Book Covers Skyrim	https://www.nexusmods.com/skyrimspecialedition/mods/901
+CCO	https://www.nexusmods.com/skyrimspecialedition/mods/2725
+Lore Weapons	https://www.nexusmods.com/skyrimspecialedition/mods/9660
+Become High King of Skyrim - Immersive Edition	https://www.nexusmods.com/skyrimspecialedition/mods/2152
+Modern Brawl Bug Fix	https://www.nexusmods.com/skyrimspecialedition/mods/1473
+Invested Magic 	https://www.nexusmods.com/skyrimspecialedition/mods/9361
+Bent Pines II	https://www.nexusmods.com/skyrimspecialedition/mods/8306
+Ennead - Septims	https://www.nexusmods.com/skyrimspecialedition/mods/13151
+Spells Emit Light	https://www.nexusmods.com/skyrimspecialedition/mods/4213
+Cloaks of Skyrim HD SSE	https://www.nexusmods.com/skyrimspecialedition/mods/29258
+Smell of Sands	https://www.nexusmods.com/skyrimspecialedition/mods/28310
+DLL Plugin Loader	https://www.nexusmods.com/skyrimspecialedition/mods/10546
+Ecotone Dual Sheath	https://www.nexusmods.com/skyrimspecialedition/mods/17763
+Dot Crosshair	https://www.nexusmods.com/skyrimspecialedition/mods/8891
