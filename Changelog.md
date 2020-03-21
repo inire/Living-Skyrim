@@ -154,7 +154,7 @@
 - Switched Fuz Roh D'oh from Oldrim to SSE version. 
 
 ### 3/20/2020 1.3.0
-#### Incremental
+#### Minor
 * **Fixes**
   - Fixed issue with description of Sustained Magic spells.
   - Fixed a few floating trees.
@@ -178,3 +178,8 @@
   - Changed Gamepad++ to initially be disabled. It can be enabled if using a controller.
   - Regenerated LODs.
   - The right pane of MO2 will now report 260 active, this is not an issue. The list is at 241 ESMs/ESPs and 19 ESLs.
+
+### 3/20/2020 1.3.1
+#### Incremental
+* **Fixes**
+  - Fixed missing Game Folder Files, Gamepad++, and Widescreen Fixes.
