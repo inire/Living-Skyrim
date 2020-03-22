@@ -197,3 +197,4 @@
   - Regenerated DynDOLOD. The issues with CTDs related to this should now be resolved.
 * **Mod Updates**
   - Updated LOTD to v5.0.32
+  - Updated Majestic Mountains
