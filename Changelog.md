@@ -173,9 +173,8 @@
   - Added I'm A Customer Dammit.
   - Added Remove QuickSave Button from SkyUI System Menu.
   - Added Forgotten Dungeons SE.
-  - Added Complete Widescreen Fix for Vanilla and SkyUI 2.2 and 5.2 SE. It is set to be initially disabled and will need to be manually enabled in MO2 if needed.
+  - Added Complete Widescreen Fix for Vanilla and SkyUI 2.2 and 5.2 SE.
 * **Other**
-  - Changed Gamepad++ to initially be disabled. It can be enabled if using a controller.
   - Regenerated LODs.
   - The right pane of MO2 will now report 260 active, this is not an issue. The list is at 241 ESMs/ESPs and 19 ESLs.
 
@@ -188,5 +187,13 @@
 #### Incremental
 * **Fixes**
   - Damn you Luaffyn.
+* **Mod Updates**
   - Updated DynDOLOD tool.
   - Updated Glorious Doors of Skyrim.
+
+### 3/22/2020 1.3.3
+#### Incremental
+* **Fixes**
+  - Regenerated DynDOLOD. The issues with CTDs related to this should now be resolved.
+* **Mod Updates**
+  - Updated LOTD to v5.0.32
