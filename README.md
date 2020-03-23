@@ -1,6 +1,6 @@
 # Living Skyrim
-Current version: 3/20/2020, v1.3.0  
-458 mods, 241 ESPs/ESMs, 19 ESLs (260 Total)
+Current version: 3/22/2020, v1.3.3  
+458 mods, 243 ESPs/ESMs, 19 ESLs (262 Total)
 
 ## Preface
 The Living Skyrim Modlist focuses heavily on adding highly interactive content. New questlines and world spaces are given high priority as well as mods that add NPCs, followers, and things to do. Some prominent examples are Interesting NPCs, Immersive Creatures, Legacy of the Dragonborn V5, VIGILANT, Falskaar, Animallica, and more. The core idea of Living Skyrim is to make the world feel full of life and activity in almost every area, whether it's a bandit patrol from OBIS or a conversation overheard between NPCs provided by Realistic Conversations. It is designed as a complete overhaul and expansion to many of the systems present in the game. It is aimed at providing a lore-friendly experience that enhances the core game rather than adding tedium and monotony to the game. Some mods are avoided intentionally so that unnecessary systems that slow down the game aren't included. The few inclusions that do slow things down are included for balance and pacing reasons.  
@@ -82,7 +82,6 @@ Now you have to copy some files to their correct locations. Navigate to C:\Livin
 ### Mod Organizer 2
 1. Navigate to C:\Living Skyrim and open ModOrganizer.exe. Your Mod Organizer window will have the Wabbajack theme already selected. If it doesn’t, something has gone wrong and you’ll likely need to do the Wabbajack installation again.
 2. A dialogue will appear and ask if you want to associate Mod Organizer with nxm links. Click **Yes.**
-3. Make a note of the Active count in both the left and right panes. If yours doesn’t say 460 and 262 respectively, make sure you have booted Mod Organizer in Portable Mode.
 
 #### Configuration-Specific
 1. If you are going to use a controller, make sure to enable Gamepad++ in the left pane of MO2. If you are **not** going to use a controller, make sure to **disable** Gamepad++ in the left pane of MO2.
