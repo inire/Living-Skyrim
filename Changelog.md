@@ -206,6 +206,7 @@
   - Yeeted several floating trees at Lakeview Manor.
   - Fixed Hert.
   - Yeeted a see-through rock.
+  - Fixed an issue with the cleaned SSE Masters.
 * **Balance**
   - Removed grenades from enemies until I can spend more time looking at their damage values and balance them properly.
 * **Additions**
