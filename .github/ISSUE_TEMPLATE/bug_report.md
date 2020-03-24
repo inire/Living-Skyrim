@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+**Make sure you are using the latest version of LS before reporting a bug.**
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
