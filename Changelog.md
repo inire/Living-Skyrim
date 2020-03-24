@@ -145,7 +145,8 @@
 #### Minor	
 - Replaced Invested Magic with Sustained Magic and Sustained Magic Apocalypse Patch. 
 - Added custom LS Sustained Magic + Apocalypse + Ordinator + USSEP Patch. 
-- Added SkyHUD. Added .NET Script Framework. 
+- Added SkyHUD. 
+- Added .NET Script Framework. 
 - Added Bug Fixes SSE. 
 - Removed Dot Crosshair (redundant with SkyHUD). 
 - Updated Interesting NPCs. 
@@ -198,3 +199,18 @@
 * **Mod Updates**
   - Updated LOTD to v5.0.32
   - Updated Majestic Mountains
+
+### 3/24/2020 1.3.4
+#### Incremental
+* **Fixes**
+  - Yeeted several floating trees at Lakeview Manor.
+  - Fixed Hert.
+  - Yeeted a see-through rock.
+* **Balance**
+  - Removed grenades from enemies until I can spend more time looking at their damage values and balance them properly.
+* **Additions**
+  - Added Immersive Armours - SSE CBBE BodySlide.
+* **Mod Updates**
+  - Updated Engine Fixes to v5.1.0.3.
+* **Other**
+  - Set Gamepad++ and Widescreen Fix to be disabled by default.
