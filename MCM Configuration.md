@@ -58,9 +58,16 @@ To play Living Skyrim as I intend, the MCM and Skyrim in-game settings should be
   - Features
     - Click Start Hunterborn, then exit the MCM and wait for the list in the top left to say “Hunterborn Started”. Then go back in.
 
+* Immersive Spell Learning
+  - Use Fade-To-Black: Disabled
+  - Destroy Spell Tomes: Disabled
+  - (Personal Preference) Study Time Modifier: 50%
+
 * Immersive Armors
   - Armor Options 
     - Barbarian Hero Armor Distribution: Disabled
+  - Extra Options
+    - Varied Guard Helmets: Disabled
 
 * Immersive Creatures
   - General 

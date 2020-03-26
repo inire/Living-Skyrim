@@ -203,9 +203,9 @@
 ### 3/24/2020 1.3.4
 #### Incremental
 * **Fixes**
-  - Yeeted several floating trees at Lakeview Manor.
+  - Disabled several floating trees at Lakeview Manor.
   - Fixed Hert.
-  - Yeeted a see-through rock.
+  - Disabled a see-through rock.
   - Fixed an issue with the cleaned SSE Masters.
 * **Balance**
   - Removed grenades from enemies until I can spend more time looking at their damage values and balance them properly.
@@ -215,3 +215,22 @@
   - Updated Engine Fixes to v5.1.0.3.
 * **Other**
   - Set Gamepad++ and Widescreen Fix to be disabled by default.
+
+### 3/26/2020 1.4.0
+#### Minor
+* **Fixes**
+  - Fixed issues with SSE Engine Fixes configuration.
+  - Fixed issue with spellcasting and brawling animations.
+* **Additions**
+  - Added Immersive Spell Learning.
+  - Added Forgotten Magic Redone SSE and FMR - Ordinator Patch.
+  - Added Immersive CBP Config.
+  - Added Eli's Breezehome.
+  - Added Guard Armor Replacer and patches.
+  - Added HD Meshes and Textures for Animal and Creature Drops.
+* **Removals**
+  - Removed Better Spell Learning.
+* **Mod Updates**
+  - Updated Engine Fixes to 5.1.1
+* **Other**
+  - Updated MCM Configuration document to match newly added mods.
