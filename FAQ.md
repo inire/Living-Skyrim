@@ -58,10 +58,7 @@ Yep, it’s really annoying. You can turn it off in the MCM for Master of Disgui
 Make sure you’ve disabled all overlays for Skyrim. The most common ones are Discord, Steam, and nVidia. 
 
 **Can I use a controller/gamepad?**  
-Yes, Gamepad++ is included by default.
+Yes, [Gamepad++](https://www.nexusmods.com/skyrimspecialedition/mods/27007) is included by default.
 
 **Can I use this list on an ultrawide monitor?**  
-At a minimum you’ll need to add the [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778), but yes. Just make sure you select the right version.
-
-**I can’t move!**  
-Gamepad++ only needs to be enabled in MO2 if you are going to be playing the game using a controller. Otherwise, you should disable it in the left pane of MO2. You will not be able to move using mouse/keyboard unless you disable Gamepad++.
+Yes, [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) is included by default. Just make sure to enable it.
