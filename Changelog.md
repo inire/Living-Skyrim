@@ -234,3 +234,8 @@
   - Updated Engine Fixes to 5.1.1
 * **Other**
   - Updated MCM Configuration document to match newly added mods.
+
+### 3/26/2020 1.4.1
+#### Incremental
+* **Fixes**
+  - Fixed all Sustained Magic spells not working with Ordinator.
