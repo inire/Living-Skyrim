@@ -239,3 +239,14 @@
 #### Incremental
 * **Fixes**
   - Fixed all Sustained Magic spells not working with Ordinator.
+
+### 3/27/2020 1.4.2
+#### Incremental
+* **Additions**
+  - Added Breezehome by Lupus.
+* **Removals**
+  - Removed Titillating Barrels.
+  - Removed Eli's Breezehome.
+* **Mod Updates**
+  - Updated Forgotten Dungeons to version 11.
+  - Updated Interesting NPCs to v4.3.9.
