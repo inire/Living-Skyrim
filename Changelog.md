@@ -250,3 +250,10 @@
 * **Mod Updates**
   - Updated Forgotten Dungeons to version 11.
   - Updated Interesting NPCs to v4.3.9.
+
+### 3/28/2020 1.4.3
+#### Incremental
+* **Fixes**
+  - The saga of Luaffyn continues.
+* **Mod Updates**
+  - Updated Forgotten Dungeons again.
