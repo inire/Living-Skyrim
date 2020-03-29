@@ -55,6 +55,7 @@ To play Living Skyrim as I intend, the MCM and Skyrim in-game settings should be
   - Configure Gamepad++ however you want.
 
 * Hunterborn
+**Important!: Do not configure Hunterborn until after you have selected your Alternate Start and loaded into the game world.**
   - Features
     - Click Start Hunterborn, then exit the MCM and wait for the list in the top left to say “Hunterborn Started”. Then go back in.
 
