@@ -7,8 +7,8 @@
 +SSELODGen - Overwrite
 +Relinker Output
 +zEdit - Overwrite
-+Mator Smash - Overwrite
 +LS Smash Patch Override
++Mator Smash - Overwrite
 +LS Bashed Patch Override
 +Bash Patch
 +zPatch
@@ -16,15 +16,15 @@
 +FNIS Output
 +BodySlide Overwrite
 -Final Steps_separator
-+LS Nerfs
 +Enemy Releveler
 +AllGUD Meshes
 +All Geared Up Derivative SE - AllGUD
 +PapyrusUtil SE - Modders Scripting Utility Functions
-+Complete Widescreen Fix for SkyUI 5.2 SE
 +Remove QuickSave Button from SkyUI System Menu
+-Complete Widescreen Fix for SkyUI 5.2 SE
 -Late Loaders_separator
 +LS Patches Merged
++GAR Patches Merged
 +QUASIPC Merged
 +kryptopyr's Merged
 +Trees and Flora Merged
@@ -49,8 +49,10 @@
 +AOS Merged
 +Animals Merged
 +Merges_separator
-+Sustained Magic Patches
++LS Nerfs
 +LS Patches
++Forgotten Magic Redone - Ordinator Compatibility Patch
++Sustained Magic Patches
 +Hunterborn SE MCM
 +Updated Classic Classes and Birthsigns - Andromeda Patch
 +Growl-Mortal Enemies Patch
@@ -149,6 +151,7 @@
 +The Eyes Of Beauty SSE
 +Caliente's Beautiful Bodies Enhancer -CBBE-
 -Characters Visual Overhaul_separator
++Nether's Follower Framework
 +Immersive Horses
 -NPC Miscellaneous_separator
 +Diverse Dragons Collection SE (DDCse)
@@ -169,6 +172,7 @@
 +Guard Dialogue Overhaul Redux
 +AI Overhaul SSE
 -NPC Behaviors_separator
++Vigilant - NPC Overhaul
 +Sofia - CBBE Body Replacer
 +DIVERSE SKYRIM SSE
 +The Men of Winter SSE
@@ -220,6 +224,7 @@
 +Dragon.Priest.by.Kajuan
 +Bellyaches HD Dragon Replacer Pack (SE)
 -Graphics - Creatures_separator
++HD Meshes and Textures for Animal and Creature Drops
 +Gemling Queen Jewelry SE
 +Ebony Weapons 2017 Retexture
 +Woodcutter Axe Redone SE
@@ -258,7 +263,6 @@
 +ElSopa HD - Grindstone SE
 +Manhole Texture upgrade by Pfuscher
 +Vampire Coffins 2k-4k
-+Titillating Barrels
 +Detailed Chests Texture Replacers SE
 +Skyrim 3D Cooking
 +Joy of Ships
@@ -323,12 +327,14 @@
 +Static Mesh Improvement Mod
 -Graphics - Major_separator
 -Graphics_separator
++Guards Armor Replacer SSE
 +Bandolier - Bags and Pouches for NPC
 +Zim's Immersive Artifacts V1.5
 +Winter Is Coming SSE - Cloaks
 +Skyrims Unique Treasures
 +Royal Armory - New Artifacts
 +Immersive Weapons
++Immersive Armours - SSE CBBE BodySlide
 +Immersive Armors
 +Immersive Jewelry SSE
 +Fulcimentum - More Staves and Wands of Skyrim
@@ -353,6 +359,10 @@
 +Immersive HUD - iHUD Special Edition
 +A Matter of Time - A HUD clock widget
 -HUD & UI_separator
++Vortikai's Dragon Aspect Toggle
++(SJG) Dual Wield Parrying Reimplementation for SSE (Works for Spell Blades as well)
++Immersive Spell Learning
++Forgotten Magic Redone SE
 +I'm a Customer Dammit
 +Wards Functionalities Extended
 +Sustained Magic - Keep Your Spells Going
@@ -400,7 +410,6 @@
 +Destructible Display Cases
 +CLARALUX SSE - Controllable Lights Everywhere
 +Bring Out Your Dead
-+Better Spell Learning
 +Better Skill and Quest Books Names SE
 +Awakened Magicka
 +ARTFUL DODGER - Dynamic Pickpocket Cap
@@ -415,7 +424,6 @@
 +Sofia - The Funny Fully Voiced Follower
 +Lucien - Fully Voiced Follower
 +INIGO
-+Amazing Follower Tweaks SE
 -Followers_separator
 +Clockwork (SSE)
 +Carved Brink
@@ -431,6 +439,7 @@
 +Become a Bard
 +Hunting in Skyrim - A Hunting Guild SE
 -Quests_separator
++Breezehome by Lupus
 +Forgotten Dungeons (SSE)
 +Immersive War and Violence
 +Civil War Checkpoints
@@ -460,7 +469,7 @@
 +Better Jumping SE
 +PCA_1hm Animations Overhaul
 -Animations_separator
-+Gamepad Plus Plus
+-Gamepad Plus Plus
 +Encounter Zones Unlocked SE
 +Bug Fixes SSE
 +.NET Script Framework
@@ -486,7 +495,7 @@
 +SKSE64 - Scripts
 +Address Library for SKSE Plugins
 +Essential_separator
--Living Skyrim v1.3.3_separator
+-Living Skyrim v1.5.0_separator
 +Cleaned Masters
 *DLC: Dragonborn
 *DLC: HearthFires
