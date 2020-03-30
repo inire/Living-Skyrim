@@ -132,6 +132,14 @@ To play Living Skyrim as I intend, the MCM and Skyrim in-game settings should be
   - Advanced
     - Factions Update Auto Run: Disabled
 
+* Nether's Follower Framework
+  - Activity
+    - Sandboxing
+      - Only Sandbox in Towns: Enabled
+    - Mounts
+      - Mount Support: Riding Support Only
+  - **Important!: DO NOT import Lucien or Inigo into NFF. It will completely break them. Sofia, Auri, and 3DNPCs will automatically import a short time after meeting them and asking them to follow you.**
+
 * OBIS
   - Settings
     - Enable?: Enabled

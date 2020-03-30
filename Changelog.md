@@ -257,3 +257,20 @@
   - The saga of Luaffyn continues.
 * **Mod Updates**
   - Updated Forgotten Dungeons again.
+
+### 3/30/2020 1.5.0
+#### Minor
+* **Fixes**
+  - Fixed an ELE overwrite issue in Markarth and Riften.
+  - MO2 should now successfully auto-detect game install location.
+  - Possibly fixed crashes related to specific vendors.
+* **Additions**
+  - Added Nether's Follower Framework.
+  - Added (SJG) Dual Wield Parrying Reimplementation for SSE.
+  - Added Vigilant - Character Overhaul & no hoods/wigs.
+  - Added Vortikai's Dragon Aspect Toggle.
+* **Removals**
+  - Removed Amazing Follower Tweaks.
+* **Mod Updates**
+  - Updated EBQO to 1.8.4
+  - Updated moreHUD to 3.7.7
