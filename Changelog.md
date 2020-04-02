@@ -274,3 +274,13 @@
 * **Mod Updates**
   - Updated EBQO to 1.8.4
   - Updated moreHUD to 3.7.7
+
+### 4/2/2020 1.5.1
+#### Incremental
+* **Fixes**
+  - Fixed water seams with Water Fix Script.
+* **Mod Updates**
+  - Updated LeanWolf's Better Shaped Weapons to 2.1.03
+  - Updated Vigilant SE to 1.5.0
+  - Updated Vigilant Voiced to 2.4
+  - Updated Nordic Tents HD to 3.1
