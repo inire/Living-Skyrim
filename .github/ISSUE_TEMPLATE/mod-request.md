@@ -9,6 +9,8 @@ assignees: ''
 
 **LE/Oldrim mods will be automatically rejected, do not submit them.**
 
+**To submit a mod for consideration, you must attach a copy of your save game where you have defeated Alduin using an unmodified LS installation. Any suggestions without this attached will be automatically rejected.**
+
 **Mod Name**
 The name of the mod.
 
