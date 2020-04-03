@@ -284,3 +284,8 @@
   - Updated Vigilant SE to 1.5.0
   - Updated Vigilant Voiced to 2.4
   - Updated Nordic Tents HD to 3.1
+
+### 4/3/2020 1.5.2
+#### Incremental
+* **Mod Updates**
+  - Updated Vigilant Voiced to 2.4.1
