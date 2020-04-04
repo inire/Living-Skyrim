@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+**If you are reporting a crash to desktop, please attach your NET Script Framework crash log. This can be found in C:\NetScriptFramework\Crash**
+
 **LS Version**
 Put the version of the list you are on here.
 
