@@ -289,3 +289,14 @@
 #### Incremental
 * **Mod Updates**
   - Updated Vigilant Voiced to 2.4.1
+
+### 4/6/2020 1.5.3
+#### Incremental
+* **Fixes**
+  - Fixed invisible IA shields.
+  - Fixed Aringoth BFB.
+  - Fixed some invisible water near the Abandoned Prison.
+* **Balance**
+  - Tweaked the level ranges that some enemies spawn at with Enemy Releveler. Some have been buffed, others have been nerfed. The levels of already spawned actors will be unchanged, but newly spawned actors will have the tweaks.
+* **Mod Updates**
+  - Updated LOTD to 5.1.
